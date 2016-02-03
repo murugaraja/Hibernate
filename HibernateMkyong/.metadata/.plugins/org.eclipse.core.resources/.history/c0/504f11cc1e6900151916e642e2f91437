@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/antlr.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/com.google.common_1.0.0.201004262004.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/com.springsource.org.hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/com.springsource.org.objectweb.asm-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/commons-digester.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/commons-fileupload-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/commons-validator.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/dom4j.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/hamcrest-core-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/hibernate-annotations-3.0beta1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/hsqldb.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/htmlunit-1.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/javassist-3.4.ga.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/jersey-servlet-1.17.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/junit.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/ojdbc14_g.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/rightfield-poi-3.9.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/selenium-java-2.0b1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/simple-spreadsheet-extractor-0.13.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/struts.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/testng-6.0.jar"/>
+	<classpathentry kind="lib" path="F:/JavaProjectsWorkSpace/Hibernate/Hibernate jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

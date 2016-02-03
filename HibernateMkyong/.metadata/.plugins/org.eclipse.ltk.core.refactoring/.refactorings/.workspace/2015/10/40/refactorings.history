@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Hibernate-one-to-one-xml/src/main&apos;" deleteContents="false" description="Delete resource &apos;Hibernate-one-to-one-xml/src/main&apos;" element1="/Hibernate-one-to-one-xml/src/main" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1443796936834"/>&#x0A;<refactoring comment="Delete resource &apos;Hibernate-one-to-one-xml/src/test&apos;" deleteContents="false" description="Delete resource &apos;Hibernate-one-to-one-xml/src/test&apos;" element1="/Hibernate-one-to-one-xml/src/test" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1443796939034"/>
+</session>

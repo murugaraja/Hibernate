@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>	
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/antlr.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/com.springsource.org.hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/com.springsource.org.objectweb.asm-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/javassist-3.4.ga.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/JavaProject/OneToOne/WebContent/WEB-INF/lib/slf4j-simple-1.6.1.jar"/>
+	
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
